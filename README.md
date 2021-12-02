@@ -20,9 +20,9 @@ For this project, we therefore propose to examine patterns in the prescription o
 ## Contents
 
 * [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU014_01/tree/main/england)
-* [View the analysis code and phenotypes used in the Safe Haven](https://github.com/BHFDSC/CCU014_03/tree/main/scotland)
-* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU014_03/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU002_03/tree/main/outside)
+* [View the analysis code and phenotypes used in the Safe Haven](https://github.com/BHFDSC/CCU014_01/tree/main/scotland)
+* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU014_01/tree/main/wales)
+* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU014_01/tree/main/outside)
 * [View the final ouput of our analysis](https://github.com/BHFDSC/CCU014_01/tree/main/outside/output)
 
 ## Project approval
