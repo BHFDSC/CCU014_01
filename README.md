@@ -15,15 +15,13 @@ The number of GP appointments also fell during Spring-Summer 2020, presumably re
 For this project, we therefore propose to examine patterns in the prescription of medicines for these conditions. This will enable us to understand how the COVID-19 pandemic has had an impact on the control of CVD and its related conditions in the UK population. We will use this information to understand how many people are likely to be affected by cardiovascular disease in the future. It is hoped that this will enable more accurate planning for better patient care.
 
 ## How to cite this work
-> Citation goes here
+> Citation to follow
 
 ## Contents
 
 * [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU014_01/tree/main/england)
 * [View the analysis code and phenotypes used in the Safe Haven](https://github.com/BHFDSC/CCU014_01/tree/main/scotland)
 * [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU014_01/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU014_01/tree/main/outside)
-* [View the final ouput of our analysis](https://github.com/BHFDSC/CCU014_01/tree/main/outside/output)
 
 ## Project approval
 
@@ -32,4 +30,3 @@ This is a sub-project of [project CCU014](https://github.com/BHFDSC/CCU014) appr
 ## License
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this software except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-
