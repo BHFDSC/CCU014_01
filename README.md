@@ -1,4 +1,4 @@
-# Assessing cardiovascular disease impact through medicines
+# The impact of the COVID-19 pandemic on cardiovascular disease prevention and management
 
 ## Project description
 
@@ -15,7 +15,7 @@ The number of GP appointments also fell during Spring-Summer 2020, presumably re
 For this project, we therefore propose to examine patterns in the prescription of medicines for these conditions. This will enable us to understand how the COVID-19 pandemic has had an impact on the control of CVD and its related conditions in the UK population. We will use this information to understand how many people are likely to be affected by cardiovascular disease in the future. It is hoped that this will enable more accurate planning for better patient care.
 
 ## How to cite this work
-> Pre-print available on medRxiv [here](https://doi.org/10.1101/2021.12.31.21268587)
+Dale, C.E., Takhar, R., Carragher, R. et al. The impact of the COVID-19 pandemic on cardiovascular disease prevention and management. Nat Med (2023). https://doi.org/10.1038/s41591-022-02158-7
 
 ## Contents
 
